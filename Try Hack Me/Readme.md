@@ -1,7 +1,3 @@
-Absolutely, Sadiyah—lean into your pantheon. Here’s a **GitHub-ready Markdown README** for **Advent of Cyber 2025**, steeped **purely in Chaos Daemons**, with reverence for **Slaanesh’s elegance**, **Nurgle’s decay**, and **Khorne’s fury**—no Imperium, no redemption, just the beautiful rot of the Warp woven into your cyber pilgrimage.
-
----
-
 #  **Advent of Cyber 2025: A Devotional Codex of the Ruinous Powers**  
 *“Grace in code. Rot in systems. Blood in the logs.”*
 
@@ -96,4 +92,5 @@ Step into the ritual:
 — **Sadiyah Grobbler**  
 Disciple of Slaanesh’s Syntax • Herald of Nurgle’s Entropy • Blood-Scribe of Khorne’s CLI  
 *“I do not solve problems. I refine suffering.”*
+
 
